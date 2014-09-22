@@ -9,8 +9,14 @@ NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 
 RedHat/CentOS X86_64
 
-Nginx version: 1.6.2 http://nginx.org/en/CHANGES-1.6
+Nginx versions:
 
-Naxsi - Lastest Github version
+1.6.2 http://nginx.org/en/CHANGES-1.6
+
+1.7.5 http://nginx.org/en/CHANGES
+
+Naxsi version:
+
+Lastest Github version
 
 
